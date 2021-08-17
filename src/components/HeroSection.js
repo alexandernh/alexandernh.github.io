@@ -59,7 +59,7 @@ function HeroSection() {
               width: "40%",
               position: 'fixed',
               zIndex: '-1'}} 
-              src="/images/coast1.jpg"/>
+              src="/images/Coast1.jpg"/>
       <div style={{  height: '82vh',
           width: '100%'}}>
 
@@ -112,7 +112,7 @@ function HeroSection() {
           height: '92%',
           width: "40%",
           zIndex: '1', paddingTop: '310px'}} 
-        src="/images/loganbike.jpg"/>
+        src="/images/LoganBike.jpg"/>
       </div>
       <div className="hero-container1"  id="theFixed8" style={{position:'fixed'}}> 
         <img style={{objectFit: 'cover',
@@ -126,7 +126,7 @@ function HeroSection() {
           height: '92%',
           width: "40%",
           zIndex: '1', paddingTop: '380px'}} 
-        src="/images/game.jpg"/>
+        src="/images/Game.jpg"/>
       </div>
       <div className="hero-container1"  id="theFixed10" style={{position:'fixed'}}> 
         <img style={{objectFit: 'cover',
