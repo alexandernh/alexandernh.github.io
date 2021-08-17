@@ -18,7 +18,7 @@ export default function SignUp() {
        width: "40%",
        position: 'fixed',
        zIndex: '-1'}} 
-       src="/images/computer.jpg"/>
+       src="/images/Computer.jpg"/>
       <h1 style={{color: 'white'}}>EXPERIENCE</h1>
     </div>
     <Entry2/>
