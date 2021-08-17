@@ -19,7 +19,7 @@ export default function Products() {
        zIndex: '-1'}} 
        src="/images/alex.jpg"/>
       <div className='hero-btns' style={{paddingBottom: '20%'}}>
-      <a href="/images/resume.pdf" download="AlexHoResume">
+      <a href="/images/Resume.pdf" download="AlexHoResume">
         {/* <ButtonSubscribe
           className='btns'
           buttonStyle='btn--outline'
