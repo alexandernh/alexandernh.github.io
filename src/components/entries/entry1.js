@@ -8,7 +8,7 @@ function Entry1() {
       <div className='entry__container'>
         <div className='entry__wrapper1'>
           <div className='row'>
-          <h1 style={{fontSize:"500%"}}>TL;DR: I'M A MUSIC GENRE GEEK, PLASTIC DISC THROWER, AND FAN OF HIGH CARB FOODS</h1>
+          <h1 style={{fontSize:"500%"}}>TL;DR: I'M A MUSIC LISTENING GEEK, PLASTIC DISC THROWER, AND LOVER OF HIGH CARB FOODS</h1>
                 {/* <h3>My intentions with this website is to give a glimpse of what my interests are and the kind of person that I am. Let's get into it >:)</h3> */}
           </div>
           <div className='row'>
@@ -18,7 +18,7 @@ function Entry1() {
               <div className='column'>
                 <h2></h2>
                 <h3 style={{color: '#696969'}}>
-                  My name's Alex! I will be graduating December 2021 with a bachelors in computer science at The University of Texas at Dallas.
+                  Greetings! My name's Alex and I will be graduating December 2021 with a bachelors in computer science at The University of Texas at Dallas.
                   Throughout undergrad, I've held position as the UTD Ultimate Frisbee Club A-Team Captain and Sports Coordinator of the Filipino Student Association.
                 </h3>
                 <h3 style={{color: '#696969', paddingTop: '15px'}}>

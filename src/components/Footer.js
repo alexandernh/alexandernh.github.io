@@ -9,22 +9,12 @@ function Footer() {
       <section class='social-media'>
         <div class='social-media-wrap'>
           <div class='social-icons'>
-            <Link
-              class='social-icon-link youtube'
-              to='/'
-              target='_blank'
-              aria-label='Youtube'
-            >
-              <i class='fab fa-youtube' />
-            </Link>
-            <Link
-              class='social-icon-link twitter'
-              to='/'
-              target='_blank'
-              aria-label='LinkedIn'
-            >
-              <i class='fab fa-linkedin' />
-            </Link>
+          <a href='https://www.linkedin.com/in/ho-alex'>        
+                <i style={{ color: '#000', fontSize: '24px'}} class='fab fa-linkedin' />
+              </a>
+              <a href='https://www.youtube.com/channel/UC-8HmSdTmbH3br2xbJCnn_Q'>        
+                <i style={{ color: '#000', fontSize: '24px'}} class='fab fa-youtube' />
+              </a>
           </div>
           <p style={{paddingTop:'1%', color:'black'}}>Site made by Alex Ho in React</p>
         </div>

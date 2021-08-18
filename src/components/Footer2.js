@@ -9,7 +9,7 @@ function Footer2() {
       <section class='social-media2'>
         <div class='social-media-wrap2'>
           <div class='social-icons2'>
-            <a href='www.linkedin.com/in/ho-alex'>        
+            <a href='https://www.linkedin.com/in/ho-alex'>        
                 <i style={{ color: '#000', fontSize: '24px'}} class='fab fa-linkedin' />
               </a>
               <a href='https://www.youtube.com/channel/UC-8HmSdTmbH3br2xbJCnn_Q'>        
